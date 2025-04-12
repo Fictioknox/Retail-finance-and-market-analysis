@@ -96,14 +96,6 @@ This project analyzes a real-world dataset from the UCI Online Retail repository
 
 ---
 
-## How to Run
-1. **Clone Repo**: Download code and assets.
-2. **Install Dependencies**: `pip install pandas numpy scikit-learn matplotlib seaborn plotly mlxtend openpyxl`.
-3. **Execute**: Run Steps 1-5 in Colab or Jupyter with UCI dataset (`Online_Retail.csv`).
-4. **View Outputs**: Check Excel files and PNGs in file explorer.
-
----
-
 ## Credits
 - **Dataset**: UCI Machine Learning Repository.
 - **Tools**: xAI’s Grok 3 for guidance; Python ecosystem for analysis.
